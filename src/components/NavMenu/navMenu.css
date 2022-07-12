@@ -1,0 +1,19 @@
+#navMenu{
+    background-color: #9E70C4;
+    color: #fff;
+    padding: 0.5rem 0;
+}
+
+#navMenu .itens-navMenu{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+.logo img {
+    width: 150px;
+}

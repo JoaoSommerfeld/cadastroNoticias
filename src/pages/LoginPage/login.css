@@ -1,0 +1,35 @@
+#login{
+    background-image: linear-gradient(to right top, #512179, #4c4097, #415cb3, #3076cb, #1891e0);
+}
+
+#login .box-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    padding: 0 2rem;    
+}
+
+#login .fields{
+    display: block;
+    background-color: #ffffff;
+    margin: 0 auto;
+    padding: 0 2rem;
+    border-radius: 5px;
+    box-shadow: 10px 10px 14px 1px rgb(0 0 0 / 20%);
+}
+
+#login .botao-enviar{
+    background-color: #512179;
+    margin-top: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+#login .botao-enviar:hover{
+    background-color: #8040b4;
+}
+
+#login h1{
+    color: #757575;
+}

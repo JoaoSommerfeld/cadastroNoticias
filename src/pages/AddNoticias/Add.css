@@ -1,0 +1,26 @@
+.formulario{
+    min-height: 700px;
+    margin: 3rem 0;
+}
+
+.formulario .voltar{
+    margin: .5rem 0;
+    text-align: right;
+}
+
+.formulario .voltar .btn-back{
+    margin-bottom: 1rem;
+}
+
+.formulario .voltar a{
+    color: #fff;
+    text-decoration: none;
+}
+
+.formulario .send {
+    margin-top: 1rem;
+}
+
+.formulario  h1 {
+    color: #757575;
+}
