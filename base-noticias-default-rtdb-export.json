@@ -1,0 +1,40 @@
+{
+  "noticias": [
+    {
+      "data": "29/04/2022",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "link": "https://enderecodanoticia.com.br/titulo-da-noticia-que-estara-no-sistema",
+      "tipo": 0
+    },
+    {
+      "data": "29/04/2022",
+      "descricao": "Cras ut mi neque. Donec aliquet finibus pellentesque. Curabitur placerat ullamcorper mollis.",
+      "link": "https://enderecodanoticia.com.br/titulo-da-noticia-que-estara-no-sistema",
+      "tipo": 0
+    },
+    {
+      "data": "29/05/2022",
+      "descricao": "In bibendum est pulvinar, vulputate mi eget, aliquet sem. In scelerisque diam ut nunc viverra, eget tempor mi malesuada.",
+      "link": "https://enderecodanoticia.com.br/titulo-da-noticia-que-estara-no-sistema",
+      "tipo": 0
+    },
+    {
+      "data": "29/05/2022",
+      "descricao": "Praesent eget pellentesque nisl, vel fermentum nibh.",
+      "link": "https://enderecodanoticia.com.br/titulo-da-noticia-que-estara-no-sistema",
+      "tipo": 0
+    },
+    {
+      "data": "29/06/2022",
+      "descricao": "Etiam vehicula felis dolor, vitae rhoncus turpis rhoncus a.",
+      "link": "https://enderecodanoticia.com.br/titulo-da-noticia-que-estara-no-sistema",
+      "tipo": 0
+    },
+    {
+      "data": "29/06/2022",
+      "descricao": "Sed dignissim, risus quis auctor ultrices, nunc ligula suscipit urna, eget bibendum tellus quam quis tellus.",
+      "link": "https://enderecodanoticia.com.br/titulo-da-noticia-que-estara-no-sistema",
+      "tipo": 0
+    }
+  ]
+}
